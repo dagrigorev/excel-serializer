@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDECECB-1E10-4A28-ADEB-94A4375AEB24}|ExcelSerializer\\ExcelSerializer.csproj|e:\\source\\repos\\excel-serializer\\excelserializer\\excelserializer\\excelserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDECECB-1E10-4A28-ADEB-94A4375AEB24}|ExcelSerializer\\ExcelSerializer.csproj|solutionrelative:excelserializer\\excelserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06797DE0-FCAE-4978-A3C0-8FAAC6ED910A}|DemoApp\\DemoApp.csproj|e:\\source\\repos\\excel-serializer\\excelserializer\\demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06797DE0-FCAE-4978-A3C0-8FAAC6ED910A}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06797DE0-FCAE-4978-A3C0-8FAAC6ED910A}|DemoApp\\DemoApp.csproj|e:\\source\\repos\\excel-serializer\\excelserializer\\demoapp\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06797DE0-FCAE-4978-A3C0-8FAAC6ED910A}|DemoApp\\DemoApp.csproj|solutionrelative:demoapp\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDECECB-1E10-4A28-ADEB-94A4375AEB24}|ExcelSerializer\\ExcelSerializer.csproj|e:\\source\\repos\\excel-serializer\\excelserializer\\excelserializer\\excelserializeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FDECECB-1E10-4A28-ADEB-94A4375AEB24}|ExcelSerializer\\ExcelSerializer.csproj|solutionrelative:excelserializer\\excelserializeroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExcelSerializerOptions.cs",
+              "DocumentMoniker": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\ExcelSerializer\\ExcelSerializerOptions.cs",
+              "RelativeDocumentMoniker": "ExcelSerializer\\ExcelSerializerOptions.cs",
+              "ToolTip": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\ExcelSerializer\\ExcelSerializerOptions.cs",
+              "RelativeToolTip": "ExcelSerializer\\ExcelSerializerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:26:24.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleClass.cs",
+              "DocumentMoniker": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\DemoApp\\SampleClass.cs",
+              "RelativeDocumentMoniker": "DemoApp\\SampleClass.cs",
+              "ToolTip": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\DemoApp\\SampleClass.cs",
+              "RelativeToolTip": "DemoApp\\SampleClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:21:00.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\DemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "DemoApp\\Program.cs",
+              "ToolTip": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\DemoApp\\Program.cs",
+              "RelativeToolTip": "DemoApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:05:06.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExcelSerializer.cs",
+              "DocumentMoniker": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\ExcelSerializer\\ExcelSerializer.cs",
+              "RelativeDocumentMoniker": "ExcelSerializer\\ExcelSerializer.cs",
+              "ToolTip": "E:\\source\\repos\\excel-serializer\\ExcelSerializer\\ExcelSerializer\\ExcelSerializer.cs",
+              "RelativeToolTip": "ExcelSerializer\\ExcelSerializer.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAAAPgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:01:29.144Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\bin\Debug\net8.0\ExcelSerializer.deps.json
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\bin\Debug\net8.0\ExcelSerializer.dll
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\bin\Debug\net8.0\ExcelSerializer.pdb
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.csproj.AssemblyReference.cache
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.AssemblyInfoInputs.cache
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.AssemblyInfo.cs
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.csproj.CoreCompileInputs.cache
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.sourcelink.json
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.dll
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\refint\ExcelSerializer.dll
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ExcelSerializer.pdb
+E:\source\repos\excel-serializer\ExcelSerializer\ExcelSerializer\obj\Debug\net8.0\ref\ExcelSerializer.dll
